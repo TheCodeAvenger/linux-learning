@@ -1,3 +1,4 @@
+```
 # Copy and Move
 cp file1.txt file2.txt
 cp -r folder1 folder2
@@ -21,3 +22,4 @@ tee output.txt
 clear
 diff file1.txt file2.txt
 vi file.txt
+```
