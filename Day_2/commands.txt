@@ -1,0 +1,23 @@
+# Copy and Move
+cp file1.txt file2.txt
+cp -r folder1 folder2
+mv file.txt newname.txt
+
+# Count
+wc file.txt
+wc -l file.txt
+wc -w file.txt
+wc -c file.txt
+
+# Links
+ln file.txt hardlink.txt
+ln -s file.txt softlink.txt
+
+# Text Processing
+cut -b 1-5 file.txt
+tee output.txt
+
+# Other
+clear
+diff file1.txt file2.txt
+vi file.txt
